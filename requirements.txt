@@ -1,4 +1,6 @@
 numpy==1.16.*
 matplotlib==3.*
 pandas==0.24.*
+RISE==5.5.*
+
 
